@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Quentin
 
-<!--
-**QuentinLemire/QuentinLemire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en informatique (CNAM)  
+🚀 Futur ingénieur en systèmes d’information  
+🎯 À la recherche d’une alternance pour 2026  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Compétences
+- HTML / CSS / JavaScript
+- PHP / SQL
+- Java (POO)
+- Git / GitHub
+
+---
+
+## 🚀 Projets
+
+### 🔹 Site web de club de tennis de table
+Site dynamique permettant la gestion des équipes, résultats et utilisateurs.  
+➡️ Technologies : HTML, CSS, JavaScript, PHP, SQL  
+
+### 🔹 Jeu vidéo (casse-briques)
+Jeu développé en Processing avec gestion des collisions et du score.  
+➡️ Technologies : Java / Processing  
+
+---
+
+## 📫 Me contacter
+📧 quentin_lemire@outlook.fr
+🔗 www.linkedin.com/in/quentin-lemire-ing953
